@@ -1,0 +1,25 @@
+Checking 1476, 1635, 2660, 2924, 2655, 1044, 2748, 1104, 2612, 1196, 2724 for years that are leap years 1476, 2660, 2924, 1044, 2748, 1104, 2612, 1196, 2724
+Checking 2079, 2856, 1344, 2852, 2168, 2618, 1240, 1200 for years that are leap years 2856, 1344, 2852, 2168, 1240, 1200
+Checking 2652, 2812, 1204, 2283, 1928, 1860, 1576, 1084, 2130, 2956 for years that are leap years 2652, 2812, 1204, 1928, 1860, 1576, 1084, 2956
+Checking 1940, 1164, 2269, 1420, 2348, 2824, 2752, 1540 for years that are leap years 1940, 1164, 1420, 2348, 2824, 2752, 1540
+Checking 2056, 1684, 2948, 2544, 1872, 1112, 1848, 1120, 1208 for years that are leap years 2056, 1684, 2948, 2544, 1872, 1112, 1848, 1120, 1208
+Checking 1608, 2988, 2034, 1292, 2732, 2504, 1240, 2976, 2096 for years that are leap years 1608, 2988, 1292, 2732, 2504, 1240, 2976, 2096
+Checking 2124, 2776, 2631, 2632, 2169 for years that are leap years 2124, 2776, 2632
+Checking 2336, 1228, 2108, 2484, 1752, 1936, 1856, 2052, 1384, 1764, 2624, 1911, 2204, 2196 for years that are leap years 2336, 1228, 2108, 2484, 1752, 1936, 1856, 2052, 1384, 1764, 2624, 2204, 2196
+Sum of -11, -5, 20, -13, -14, -11, -5, 18, 20, -6, 10, -14, 20, 1 is 10
+Sum of -10, -8, 3, -6, -2, 11, 1 is -11
+Sum of -11, -10, 1, 7, -14 is -27
+Sum of -14, 14, -4, 16, -9, -13, -7, 16, 13, 19, -11, -14, 18, -19 is 5
+Sum of -11, 19, 6, -12, 3, 9, -20, 10, -14, 18, -17, -13, 7 is -15
+Sum of -18, -3, 6, 13, -12, 5, -15, -13, 11 is -26
+Sum of -16, -18, 6, 18, -13, -6, -14, 10, -18, -13, 20, 8, 19 is -17
+Sum of 9, 13, 8, 18, -14 is 34
+appending  but to I  makes I but 
+appending  has to persons always requirement  makes persons has always has requirement has 
+appending  BREACH to and  makes and BREACH 
+appending  of to absolutely in and find summoned.  makes absolutely of in of and of find of summoned. of 
+appending  potato to fat poteen Parliament their  makes fat potato poteen potato Parliament potato their potato 
+appending  told, to of “years of  makes of told, “years told, of told, 
+appending  is to O’Connell even land guffaw,  makes O’Connell is even is land is guffaw, is 
+appending  and to point an  makes point and an and 
+appending  to to as into door  makes as to into to door to 
