@@ -9,7 +9,7 @@ This Scala project reads commands from a text file, performs computations on lis
 
 ---
 
-## 📁 Files
+## Files
 
 - `Homework7.scala` – Contains core functions: `append`, `leap_years`, `sum`, and `is_leap_year`
 - `main.scala` – Main program that parses input and writes formatted output
@@ -18,7 +18,7 @@ This Scala project reads commands from a text file, performs computations on lis
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 Below is a full example with inputs, expected outputs, and compile/run instructions:
 
@@ -43,7 +43,7 @@ scala main input.txt output.txt
 
 ---
 
-## 🧑‍💻 Author Notes
+## Author Notes
 
 This project was built as part of a CS class assignment using Scala. Input and output are handled via file I/O. All logic and helper methods were written by the student.
 
